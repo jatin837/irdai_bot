@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+__pycache__/
+*.so
+
+# C extensions
+*.pyd
+*.dll
+*.dylib
+*.swo
+*.swp
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+dist/
+build/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+*.cover
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# PyInstaller
+#  Usually these files are written in the root directory
+#  when PyInstaller creates a bundle.
+#  See https://pyinstaller.org/en/stable/spec-files.html#writing-your-own-spec-file
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Virtual environment
+# (Use the specific name for your virtual environment folder here if it's not "env" or "venv")
+# e.g., .env/
